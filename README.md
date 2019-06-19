@@ -10,7 +10,7 @@ Repositório utilizado no gerenciamento do desenvolvimento de um portfólio pess
 
 - Desenvolvimento de Software
   - Fluência multi-linguagem
-  - Design Patterns
+  - [Design Patterns](https://github.com/araujoit/design_patterns)
 
 - Engenharia de Software
   - Restful API
